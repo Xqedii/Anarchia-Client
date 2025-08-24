@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.xqedii.xqediiclient.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "ScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
